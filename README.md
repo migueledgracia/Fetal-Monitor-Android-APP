@@ -20,5 +20,5 @@ An archive of the entire Xcode/Android project.
 
 ##Images of the finished test:
 
-<img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-24-17.png">
+<img style="margin:5px"src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-24-17.png">
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-25-12.png">
