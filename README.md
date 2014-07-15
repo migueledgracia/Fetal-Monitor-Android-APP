@@ -16,3 +16,8 @@ An archive of the entire Xcode/Android project.
 3. The graph needs simulate real time and as such should present a simulated heart rate over time at resolution of 10 samples per second where the most recent sample is at the right of the screen and the oldest is at the left of the screen.
 4. The two graphs (the babies and the mothers) should animate/move together.
 5. The user of the app should be able to scroll the monitor back in time.
+
+
+##Images of the finished test:
+
+http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-40-15.png
