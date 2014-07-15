@@ -22,3 +22,5 @@ An archive of the entire Xcode/Android project.
 
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-24-17.png" hspace="5">
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-25-12.png" hspace="5">
+<img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-25-52.png" hspace="5">
+<img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-26-11.png" hspace="5">
