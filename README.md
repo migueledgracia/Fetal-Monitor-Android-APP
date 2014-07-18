@@ -18,13 +18,14 @@ An archive of the entire Xcode/Android project.
 5. The user of the app should be able to scroll the monitor back in time.
 
 
-##Images of the finish test:
+##Video Of The Finish Test:
+
+<a href="https://www.youtube.com/watch?v=SDax1PBnZZY"><img src="http://migueledgarcia.com/wordpress/wp-content/gallery/technical-test/fetal_monitor_video_teaser.jpg" hspace="5"></a>
+
+##Images Of The Finish Test:
 
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-24-17.png" hspace="5">
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-25-12.png" hspace="5">
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-25-52.png" hspace="5">
 <img src="http://migueledgarcia.com/wordpress/wp-content/uploads/2014/07/Screenshot_2014-07-14-19-26-11.png" hspace="5">
 
-##Video of the finish test:
-
-https://www.youtube.com/watch?v=SDax1PBnZZY
